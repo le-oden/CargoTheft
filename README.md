@@ -21,5 +21,7 @@ Outliers in stolen values were identified, with some exceeding $100M. To ensure 
 - What trends contribute to the increasing rate of cargo theft in the U.S.?
 
 This repository includes data cleaning, exploratory data analysis, and visualizations to support findings.
+Data accessed from: https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads
+A Tableau dashboard of my findings can be found here: https://public.tableau.com/app/profile/laura.oden/viz/CF_Data_Viz_cargo_Theft_pres/Story1?publish=yes in
 
 
